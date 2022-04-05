@@ -1,0 +1,15 @@
+.header-section{
+    display: flex;
+    justify-content:space-around;
+    background-color: aquamarine;
+}
+.logo{
+    width: 15%;
+    height: 10%;
+}
+
+.navbar a{
+text-decoration: none;
+font-size: 20px;
+margin: 20px;
+}
